@@ -1,4 +1,5 @@
 def reverse_each_word(phrase)
-  prase.split
+  array = phrase.split(",")
+  array.each 
   
 end
